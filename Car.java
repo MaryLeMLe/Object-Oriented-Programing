@@ -1,5 +1,6 @@
 package vehicle.park;
 
+//This is a Car object with a simple constructor, and getters and setters for number of doors for vehicle, and color of vehicle
 public class Car extends Vehicle{
 	private int numofDoors;
 	private String color;
